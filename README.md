@@ -120,6 +120,7 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 * [Knowledge-Based AI: Cognitive Systems
 by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
 * [The Society of Mind by Marvin Minsky](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/lecture-1-introduction/)
+[Nextotech Blog](https://nextotech.com/9-free-online-data-science-courses-to-learn-in-2020/)
 
 ## Videos
 
